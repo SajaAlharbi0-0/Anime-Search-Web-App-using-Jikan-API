@@ -1,4 +1,4 @@
-//saja alharbi 2210206
+
 const form = document.getElementById('search-form');
 const input = document.getElementById('anime-input');
 const results = document.getElementById('anime-results');
